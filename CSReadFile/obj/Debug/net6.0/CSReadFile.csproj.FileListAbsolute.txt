@@ -1,0 +1,14 @@
+C:\Users\thoma\source\repos\CSReadFile\CSReadFile\bin\Debug\net6.0\CSReadFile.exe
+C:\Users\thoma\source\repos\CSReadFile\CSReadFile\bin\Debug\net6.0\CSReadFile.deps.json
+C:\Users\thoma\source\repos\CSReadFile\CSReadFile\bin\Debug\net6.0\CSReadFile.runtimeconfig.json
+C:\Users\thoma\source\repos\CSReadFile\CSReadFile\bin\Debug\net6.0\CSReadFile.dll
+C:\Users\thoma\source\repos\CSReadFile\CSReadFile\bin\Debug\net6.0\CSReadFile.pdb
+C:\Users\thoma\source\repos\CSReadFile\CSReadFile\obj\Debug\net6.0\CSReadFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thoma\source\repos\CSReadFile\CSReadFile\obj\Debug\net6.0\CSReadFile.AssemblyInfoInputs.cache
+C:\Users\thoma\source\repos\CSReadFile\CSReadFile\obj\Debug\net6.0\CSReadFile.AssemblyInfo.cs
+C:\Users\thoma\source\repos\CSReadFile\CSReadFile\obj\Debug\net6.0\CSReadFile.csproj.CoreCompileInputs.cache
+C:\Users\thoma\source\repos\CSReadFile\CSReadFile\obj\Debug\net6.0\CSReadFile.dll
+C:\Users\thoma\source\repos\CSReadFile\CSReadFile\obj\Debug\net6.0\refint\CSReadFile.dll
+C:\Users\thoma\source\repos\CSReadFile\CSReadFile\obj\Debug\net6.0\CSReadFile.pdb
+C:\Users\thoma\source\repos\CSReadFile\CSReadFile\obj\Debug\net6.0\CSReadFile.genruntimeconfig.cache
+C:\Users\thoma\source\repos\CSReadFile\CSReadFile\obj\Debug\net6.0\ref\CSReadFile.dll
